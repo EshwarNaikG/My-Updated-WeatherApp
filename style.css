@@ -12,11 +12,11 @@ body{
 
 .card{
     width: 100%;
-    max-width: 90vh;
+    max-width: 50%;
     background: linear-gradient(135deg,#00feba,#5b548a);
     color: #fff;
     margin: 50% auto 0;
-    border-radius: 20px;
+    border-radius: 10%;
     padding: 10% 2%;
     text-align: center;
 }
